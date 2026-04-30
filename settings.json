@@ -8,7 +8,7 @@
   "server": {
     "ip": "Hived.aternos.me",
     "port": 11343,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
