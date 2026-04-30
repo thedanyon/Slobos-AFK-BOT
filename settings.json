@@ -1,14 +1,14 @@
 {
-  "name": "bot",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "sigma",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "hived.aternos.me",
+    "ip": "Hived.aternos.me",
     "port": 11343,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "ayush"
+      "password": "Slobos"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "W",
-        "Devyansh is gay",
-        "idk tbh"
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
